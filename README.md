@@ -1,4 +1,4 @@
-## Hi there! 👋  I'm Michael Ogundipe, a Flutter Engineer 
+## Hi there! 👋  I'm Michael Ogundipe, a Senior Flutter Engineer 
 
 
 ## 👨‍💻 My technical expertise 
